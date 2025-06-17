@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... web or software development
 - 🌱 I’m currently learning ... btech cse 
 - 💞️ I’m looking to collaborate on ... internships and jobs
-- 📫 How to reach me ...inta= anymous_73660
+- 📫 How to reach me ...inta= lil.moonxx_87
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
