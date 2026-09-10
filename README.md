@@ -161,13 +161,19 @@
 
 ---
 
+
+
 <div align="center">
 
-### ✨ *“Small steps every day lead to big results.”* ✨
+### ✨ “Small steps every day lead to big results.” ✨
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=8A2BE2&center=true&vCenter=true&width=600&lines=Keep+Learning+📚;Keep+Building+💻;Keep+Growing+🌱;Keep+Going+🚀" alt="Closing animation">
+<br>
 
-<br><br>
+<h3>💻 Code • 📊 Analyze • 🚀 Create Impact</h3>
+
+<br>
+
+</div>
 
 **Code • Analyze • Create Impact 💫**
 
