@@ -65,13 +65,15 @@
 
 ---
 
-## 📈 GitHub Stats
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Minu-Kumar&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Minu-Kumar&show_icons=true&theme=tokyonight&hide_border=true" height="180">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minu-Kumar&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Minu-Kumar&layout=compact&theme=tokyonight&hide_border=true" height="180">
 
 </div>
 
@@ -99,11 +101,13 @@
 
 ---
 
+---
+
 ## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Minu-Kumar&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution activity graph">
+🔥 Keep coding. Keep building. Keep growing.
 
 </div>
 
