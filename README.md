@@ -4,11 +4,11 @@
 
 ### 💻 B.Tech CSE Student  •  📊 Aspiring Data Analyst
 
-<img src="./minu.png" alt="Minu Kumar - GitHub" width="900">
+<img src="https://raw.githubusercontent.com/Minu-Kumar/Minu-Kumar/main/minu.png" alt="Minu Kumar - GitHub" width="500">
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=00F7FF&center=true&vCenter=true&width=750&lines=Aspiring+Data+Analyst+📊;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Turning+Data+into+Insights+✨;Building+Projects+%26+Learning+Every+Day+🚀;Code+%7C+Analyze+%7C+Create+Impact+✨" alt="Typing animation">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=00F7FF&center=true&vCenter=true&width=750&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Turning+Data+into+Insights;Building+Projects+%26+Learning+Every+Day;Code+%7C+Analyze+%7C+Create+Impact" alt="Typing animation">
 
 <br>
 
