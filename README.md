@@ -4,7 +4,7 @@
 
 ### 💻 B.Tech CSE Student  •  📊 Aspiring Data Analyst
 
-<img src="./assets/minu-github.png" alt="Minu Kumar - GitHub" width="900">
+<img src="./minu.png" alt="Minu Kumar - GitHub" width="900">
 
 <br><br>
 
