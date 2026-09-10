@@ -118,7 +118,7 @@
 <div align="center">
 
 `📊 Data Analytics`  `🐍 Advanced Python`  `🗄️ SQL`  
-`📈 Power BI`  `📊 Tableau`  `🤖 Machine Learning`
+`📈 Power BI`  `📊 Tableau`  
 
 </div>
 
