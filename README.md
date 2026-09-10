@@ -69,9 +69,9 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Minu-Kumar&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api?username=Minu-Kumar&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minu-Kumar&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minu-Kumar&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180">
 
 </div>
 
