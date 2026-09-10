@@ -89,11 +89,24 @@
 
 ---
 
-## 🐍 Contribution Snake Animation
+---
+
+---
+
+---
+
+---
+
+---
+
+## 🌌 Matrix Developer Mode
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution snake animation">
+<img src="https://readme-svg-typing-generator.vercel.app/api?lines=%3E%20SYSTEM%20ONLINE;%3E%20PYTHON%20%7C%20SQL%20%7C%20POWER%20BI;%3E%20DATA%20ANALYSIS%20MODE;%3E%20BUILDING%20THE%20FUTURE&animation=matrix&color=00ff66&size=26&duration=2500&pause=800&center=true&vCenter=true&width=850&height=180" width="100%" alt="Matrix Developer Animation">
+
+</div>
+### 💻 Python • SQL • Power BI • Excel
 
 </div>
 
