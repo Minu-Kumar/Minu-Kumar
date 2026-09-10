@@ -8,15 +8,19 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=00F7FF&center=true&vCenter=true&width=750&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Turning+Data+into+Insights;Building+Projects+%26+Learning+Every+Day;Code+%7C+Analyze+%7C+Create+Impact" alt="Typing animation">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=FF1493&center=true&vCenter=true&width=800&lines=Aspiring+Data+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Turning+Data+into+Insights;Building+Projects+%26+Learning+Every+Day;Code+%7C+Analyze+%7C+Create+Impact" alt="Typing Animation">
 
-<br>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Minu-Kumar&label=PROFILE+VIEWS&color=00e5ff&style=for-the-badge" alt="Profile views">
+<img src="https://img.shields.io/badge/DATA%20ANALYTICS-FF1493?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Data Analytics">
+<img src="https://img.shields.io/badge/PYTHON-9D00FF?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/SQL-FF1493?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
+<img src="https://img.shields.io/badge/POWER%20BI-9D00FF?style=for-the-badge&logo=powerbi&logoColor=white" alt="Power BI">
 
 </div>
 
 ---
+
 
 ## 🌌 About Me
 
