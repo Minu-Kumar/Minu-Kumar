@@ -97,11 +97,13 @@
 
 ---
 
-## 📊 Contribution Activity
+---
+
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Minu-Kumar&bg_color=0d1117&color=00e5ff&line=8a2be2&point=ffffff&area=true&hide_border=true" alt="Contribution activity graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Minu-Kumar&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="Contribution activity graph">
 
 </div>
 
